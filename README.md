@@ -1,2 +1,4 @@
 # calculator-jss-html-css
-Calculator that can perform different mathematical operations. With good interface and management.
+I have created a calculator with html, css, js technologies. It is an interactive calculator which can perform different mathematical operations.
+
+:) 
